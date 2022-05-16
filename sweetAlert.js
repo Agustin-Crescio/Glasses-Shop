@@ -21,7 +21,7 @@ Swal.fire({
     showCancelButton:false,
     showCloseButton : true,
     closeButtonAriaLabel:"Cerrar esta alerta",
-    imageUrl:"../assets/lentes5.jpg",
+    imageUrl:"./assets/lentes5.jpg",
     imageWidth:"100%",
     imageAlt:"imagen random"
 

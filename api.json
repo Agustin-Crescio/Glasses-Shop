@@ -3,36 +3,36 @@
       "Precio": "14650",
       "id": 1,
       "title": "SunXmax",
-      "thumbnailUrl": "../assets/lentes1.jpg"
+      "thumbnailUrl": "./assets/lentes1.jpg"
     },
     {
         "Precio": "32700",
         "id": 2,
         "title": "Infinity-8",
-        "thumbnailUrl": "../assets/lentes2.jpg"
+        "thumbnailUrl": "./assets/lentes2.jpg"
       },
       {
         "Precio": "34800",
         "id": 3,
         "title": "Tiffany-Co",
-        "thumbnailUrl": "../assets/lentes3.jpg"
+        "thumbnailUrl": "./assets/lentes3.jpg"
       },
       {
         "Precio": "42500",
         "id": 4,
         "title": "Ray-Ban",
-        "thumbnailUrl": "../assets/lentes4.jpg"
+        "thumbnailUrl": "./assets/lentes4.jpg"
       },
       {
         "Precio": "50000",
         "id": 5,
         "title": "Oakley",
-        "thumbnailUrl": "../assets/lentes5.jpg"
+        "thumbnailUrl": "./assets/lentes5.jpg"
       },
       {
         "Precio": "14700",
         "id": 6,
         "title": "Carrera",
-        "thumbnailUrl": "../assets/lentes6.jpg"
+        "thumbnailUrl": "./assets/lentes6.jpg"
       }
  ]
